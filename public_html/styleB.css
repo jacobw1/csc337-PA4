@@ -2,9 +2,6 @@ body{
   font-family: sans-serif;
 }
 
-
-
-
 #header{
   background-color: rgb(24, 88, 205);
   text-align: center;
@@ -16,7 +13,7 @@ body{
   left: 33%;
   top: 0;
   height:25%;
-  width: 33%;
+  width: 34%;
 }
 
 #header div{
@@ -45,7 +42,7 @@ body{
   left: 33%;
   bottom: 0;
   height: 75%;
-  width: 33%
+  width: 34%
 }
 
 #productsColA{
