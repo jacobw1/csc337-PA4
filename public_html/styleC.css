@@ -1,6 +1,5 @@
 body{
   font-family: sans-serif;
-
 }
 
 #header{
@@ -10,7 +9,8 @@ body{
   float: left;
   width: 150px;
   height: 200px;
-  padding: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
   padding-top: 0;
   padding-bottom: 200px;
   display: block;
@@ -22,6 +22,9 @@ body{
 }
 
 #header div{
+  white-space: nowrap;
+  text-align: center;
+  display: inline;
   }
 
 #pricecoLogo{
@@ -69,8 +72,6 @@ body{
   padding: 10px;
   text-align: center;
 }
-/*Button_Full_length = 5 + + 10 + 60 + 5 + 5 + 15 = 100*/
-/*Button_Full_length = margin + padding + width + neighbor_margin + space = total */
 
 #styleA{
   left: 0;

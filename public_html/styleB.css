@@ -91,8 +91,6 @@ body{
   padding: 10px;
   text-align: center;
 }
-/*Button_Full_length = 5 + + 10 + 60 + 5 + 5 + 15 = 100*/
-/*Button_Full_length = margin + padding + width + neighbor_margin + space = total */
 
 #styleA{
   left: 0;
