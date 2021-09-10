@@ -1,6 +1,10 @@
+/*Author: Jacob Williams */
+/*Purpose: This files contains the css of style B for PriceCo */
+
 body{
   font-family: sans-serif;
 }
+
 
 #header{
   background-color: rgb(24, 88, 205);
@@ -16,22 +20,25 @@ body{
   width: 34%;
 }
 
-#header div{
-  display: inline;
-  width: 100%
+#pricecoLogo{
+  float: left;
+  width: 100px;
+  height: auto;
+  margin-top: 30px;
 }
 
 #header h1{
-  display: inline;
-  width: 80%
+  display: block;
+  padding: 0px;
+  padding-top: 20px;
+  margin-bottom: 0;
+  font-size: 30px;
 }
 
-#pricecoLogo{
-  display: inline-block;
-  left: 0;
-  height: 50%;
-  width: auto;
+#header div{
+  font-size: 20px;
 }
+
 
 #navigation{
   background-color: rgb(102, 217, 255);
